@@ -1,0 +1,36 @@
+h1 {
+  color:green;
+  background-color: lightyellow;
+  font-family: "monotype corsiva";
+
+  text-align: center;
+}
+
+.intro {
+  color: gray;
+  font-family: geogria;
+  text-align: justify;
+}
+
+h2 {
+  color:green;
+  font-family: "monotype corsiva";
+
+}
+
+.title5{
+  text-shadow: 2px 3px 10px black;
+}
+.img1 {border-radius: 50%}
+
+.caption {color: purple}
+
+.title3{
+  color: purple;
+  text-shadow: 2px 3px 10px black;
+}
+
+h3 {
+  color:green;
+  font-family: "monotype corsiva";
+}
