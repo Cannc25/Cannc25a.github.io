@@ -95,6 +95,7 @@ h1 {
 .title6{
   text-shadow: 2px 3px 5px gray;
   border-style: dotted;
+  border-radius:5px;
   padding: 10px;
 }
 h3 {
